@@ -15,3 +15,20 @@
  background-color: #ffd9df;
 }
 
+#middle {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 800px;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #ffd9df;
+}
+
+#middle-child01,
+#middle-child02,
+#middle-child03 {
+    width: 200px;
+    height: 200px;
+    background-color: #87ceeb;
+}
