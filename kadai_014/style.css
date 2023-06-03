@@ -31,20 +31,17 @@ h1 span {
 }
 
 h2:nth-of-type(2) {
-    color: rgb(255, 192, 203); 
+  color: rgb(255, 192, 203);
 }
 
 .basic h2:nth-of-type(2) {
-    color: skyblue;
+  color: skyblue;
 }
 
 h2:nth-of-type(1),
 h2:nth-of-type(3) {
-    color: skyblue;
+  color: skyblue;
 }
-
-
-
 
 .basic p {
   font-weight: bold;
