@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body > div:not(#top) {
+    margin-top: 20px;
+}
+
 #top {
     display: flex;
     width: 800px;
