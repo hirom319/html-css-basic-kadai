@@ -34,3 +34,14 @@ main {
     margin: 20px 0;
     text-align: center;
 }
+
+h2 {
+    font-size: 25px;
+    border-bottom: 3px dotted rgb(236, 122, 122);
+}
+
+h2::before {
+    content:"・";
+    color: rgb(239, 111, 139);
+    font-size: 25px;
+}
