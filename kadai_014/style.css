@@ -18,6 +18,6 @@ h1::first-letter {
 }
 
 h1 span {
-    color: pink;
+    color: rgb(255, 192, 203);
 }
 
