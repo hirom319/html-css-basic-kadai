@@ -52,3 +52,11 @@
     left: 500px;
 }
 
+#bottom {
+    width: 800px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background-color: #35dcf0;
+}
+
