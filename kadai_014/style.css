@@ -12,3 +12,12 @@ h1 {
   font-size: 2rem;
   font-family: "Josefin Sans", sans-serif;
 }
+
+h1::first-letter {
+    color: skyblue;
+}
+
+h1 span {
+    color: pink;
+}
+
